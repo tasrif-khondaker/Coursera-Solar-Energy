@@ -3,7 +3,7 @@
 ---
 
 This comprehensive specialization, offered by the University at Buffalo through Coursera, is tailored for professionals like engineers, architects, and building code inspectors, aiming to start or advance their careers in the solar energy field. It's also well-suited for anyone interested in the burgeoning renewable energy sector.
----
+
 ## Program Highlights
 
 1. **Foundational Knowledge**: Gain a solid understanding of photovoltaic (PV) technology and the essentials of solar energy systems.
@@ -18,18 +18,29 @@ This comprehensive specialization, offered by the University at Buffalo through 
 - Understanding and adherence to solar energy regulations and codes.
 
 ## Certificates
+
 1. [Solar Energy for Engineers, Architects and Code Inspectors Specialization](https://coursera.org/verify/specialization/A2GZRPVYBMAU)
+
 <!-- ![Solar Energy for Engineers, Architects and Code Inspectors Specialization](/Certificate-Solar%20Energy%20for%20Engineers,%20Architects%20and%20Code%20Inspectors%20Specialization-Coursera%20A2GZRPVYBMAU.pdf) -->
+
 <embed src="/Certificate-Solar%20Energy%20for%20Engineers,%20Architects%20and%20Code%20Inspectors%20Specialization-Coursera%20A2GZRPVYBMAU.pdf" type="application/pdf">
 
 2. [Solar Energy Systems Overview](https://coursera.org/verify/DBQ6J3M55QL7)
+
 <!-- ![Solar Energy Systems Overview](/Course%201-Solar%20Energy%20Systems%20Overview/Certificate-1-Solar%20Energy%20Systems%20Overview-Coursera%20DBQ6J3M55QL7.pdf) -->
-<embed src="/Course%201-Solar%20Energy%20Systems%20Overview/Certificate-1-Solar%20Energy%20Systems%20Overview-Coursera%20DBQ6J3M55QL7.pdf" type="application/pdf">  
+
+<embed src="/Course%201-Solar%20Energy%20Systems%20Overview/Certificate-1-Solar%20Energy%20Systems%20Overview-Coursera%20DBQ6J3M55QL7.pdf" type="application/pdf">
 
 3. [Solar Energy and Electrical System Design](https://coursera.org/verify/XMMU5JNQAEMU)
+
 <!-- ![Solar Energy and Electrical System Design](/Course%202-Solar%20Energy%20and%20Electrical%20System%20Design/Certificate-2-Solar%20Energy%20and%20Electrical%20System%20Design-Coursera%20XMMU5JNQAEMU.pdf) -->
+
 <embed src="/Course%202-Solar%20Energy%20and%20Electrical%20System%20Design/Certificate-2-Solar%20Energy%20and%20Electrical%20System%20Design-Coursera%20XMMU5JNQAEMU.pdf" type="application/pdf">
 
 4. [Solar Energy Codes, Permitting and Zoning](https://coursera.org/verify/VQMFU2HBAM37)
+
 <!-- ![Solar Energy Codes, Permitting and Zoning](/Course%203-Solar%20Energy%20Codes,%20Permitting%20and%20Zoning/Certificate-3-Solar%20Energy%20Codes,%20Permitting%20and%20Zoning-Coursera%20VQMFU2HBAM37.pdf) -->
+
 <embed src="/Course%203-Solar%20Energy%20Codes,%20Permitting%20and%20Zoning/Certificate-3-Solar%20Energy%20Codes,%20Permitting%20and%20Zoning-Coursera%20VQMFU2HBAM37.pdf" type="application/pdf">
+<object data="/Course%203-Solar%20Energy%20Codes,%20Permitting%20and%20Zoning/Certificate-3-Solar%20Energy%20Codes,%20Permitting%20and%20Zoning-Coursera%20VQMFU2HBAM37.pdf" type="application/pdf" width="100%"> 
+</object>
